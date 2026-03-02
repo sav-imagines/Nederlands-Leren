@@ -1,0 +1,7 @@
+Ik	Zoek	Zocht
+Jij	Zoekt	Zocht
+Hij/zij/het	Zoekt	Zocht
+Wij/zij/jullie	Zoeken	Zochten
+U	Zoekt	Zocht
+Voltooid deelwoord	#table.cell(colspan: 2, align: center)[Gezocht]
+Stam	#table.cell(colspan: 2, align: center)[Zoek]

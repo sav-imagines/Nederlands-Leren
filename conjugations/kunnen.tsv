@@ -1,0 +1,7 @@
+Ik	Kan	Kon
+Jij	Kan	Kon
+Hij/zij/het	Kan	Kon
+Wij/zij/jullie	Kunnen	Konden
+U	Kunt	Kon
+Voltooid deelwoord	#table.cell(colspan: 2, align: center)[Gekund]
+Stam	#table.cell(colspan: 2, align: center)[Kan]

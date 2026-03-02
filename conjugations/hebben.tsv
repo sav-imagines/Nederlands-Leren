@@ -1,5 +1,7 @@
-Ik	Heb
-Jij	Hebt
-Hij/zij/het	Heeft
-Wij/zij/jullie	Hebben
-U	Heeft
+Ik	Heb	Had
+Jij	Hebt	Had
+Hij/zij/het	Heeft	Had
+Wij/zij/jullie	Hebben	Hadden
+U	Heeft	Had
+Voltooid deelwoord	#table.cell(colspan: 2, align: center)[Gehad]
+Stam	#table.cell(colspan: 2, align: center)[Heb]

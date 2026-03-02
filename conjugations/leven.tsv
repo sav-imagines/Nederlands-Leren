@@ -1,0 +1,7 @@
+Ik	Leef	Leefde
+Jij	Leeft	Leefde
+Hij/zij/het	Leeft	Leefde
+Wij/zij/jullie	Leven	Leefden
+U	Leeft	Leefde
+Voltooid deelwoord	#table.cell(colspan: 2, align: center)[Geleefd]
+Stam	#table.cell(colspan: 2, align: center)[Leef]

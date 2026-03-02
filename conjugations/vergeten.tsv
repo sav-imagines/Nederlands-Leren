@@ -4,4 +4,4 @@ Hij/zij/het	Vergeet	Vergat
 Wij/zij/jullie	Vergeten	Vergaten
 U	Vergeet	Vergat
 Voltooid deelwoord	#table.cell(colspan: 2, align: center)[Vergeten]
-Stam	#table.cell(colspan: 2, align: center)[Vergeten]
+Stam	#table.cell(colspan: 2, align: center)[Vergeet]
